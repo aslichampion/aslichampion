@@ -4,7 +4,7 @@
 
 🤖 Tracking my learning on [roadmap.sh](https://roadmap.sh)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66c31ff2837d383f4a0202b8?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66c31ff2837d383f4a0202b8?variant=dark)](https://roadmap.sh/u/asli)
 <!--
 **aslichampion/aslichampion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
